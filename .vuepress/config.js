@@ -46,13 +46,13 @@ module.exports = {
     },
     friendLink: [
       {
-        title: '午后南杂',
+        title: '月',
         desc: 'Enjoy when you can, and endure when you must.',
-        email: '1156743527@qq.com',
-        link: 'https://www.recoluan.com'
+        email: '384194598@qq.com',
+        link: 'https://www.baidu.com'
       },
       {
-        title: 'vuepress-theme-reco',
+        title: 'Vuepress',
         desc: 'A simple and beautiful vuepress Blog & Doc theme.',
         avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://vuepress-theme-reco.recoluan.com'
@@ -67,11 +67,11 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'reco_luan',
+    author: 'Wency🍂',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
-    record: 'xxxx',
+    record: '',
     // 项目开始时间
     startYear: '2017'
     /**
