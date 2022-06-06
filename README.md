@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: I am Wency.🍂
+tagline: Coding toward whole world.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
